@@ -16,6 +16,7 @@ The textbook will start by covering the following topics:
 
 1. Introduction to Matrices
 2. Matrix Operations
+3. Introduction to Python Programming
 
 ## Contributing
 
