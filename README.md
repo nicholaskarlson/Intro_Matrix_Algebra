@@ -1,4 +1,4 @@
-# To view and download a pdf version of this textbook that was generated from this repository, Click on the "Releases" tab located near the top or side of this GitHub page; textbook.pdf is the name of the file.
+# To view and download a pdf version of this textbook that was generated from this repository, Click on the "Releases" tab located near the top or side of this GitHub page; textbook.pdf is the name of the file. Or visit https://github.com/nicholaskarlson/Intro_Matrix_Algebra/releases
 
 # An Introduction to Matrix Algebra with Applications to Statistics and Machine Learning
 
