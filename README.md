@@ -1,3 +1,5 @@
+# To view and download a pdf version of this textbook that was generated from this repository, Click on the "Releases" tab near the top or side of this GitHub page; textbook.pdf is the name of the file.
+
 # An Introduction to Matrix Algebra with Applications to Statistics and Machine Learning
 
 _An Open Textbook_
