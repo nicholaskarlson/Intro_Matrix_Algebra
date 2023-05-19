@@ -15,8 +15,8 @@ This repository hosts the source files for an open textbook on matrix algebra, w
 The textbook will start by covering the following topics:
 
 1. Introduction to Matrices
-2. Matrix Operations
-3. Introduction to Python Programming
+2. Introduction to Python for Matrix Manipulation
+3. More on Python Programming
 
 ## Contributing
 
