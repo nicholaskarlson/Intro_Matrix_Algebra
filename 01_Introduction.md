@@ -1,5 +1,7 @@
-An Introduction to Matrix Algebra with Applications to Statistics and Machine Learning - Including an Introduction to Python Programming -
+An Introduction to Matrix Algebra with Applications to Statistics and Machine Learning - Including an Introduction to Python Programming 
+
 An Open Textbook
+
 By Nicholas Elliott Karlson
 
 # Chapter 1: Introduction to Matrix Algebra
@@ -29,4 +31,4 @@ To add two matrices, they must have the same dimensions. You simply add the corr
 
 ## Conclusion
 
-This chapter provided a brief introduction to matrix algebra. In the next chapter, we'll discuss more advanced topics, including matrix inversion and eigenvalues.
+This chapter provided a brief introduction to matrix algebra. 
