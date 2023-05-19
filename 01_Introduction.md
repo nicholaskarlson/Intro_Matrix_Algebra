@@ -1,3 +1,7 @@
+An Introduction to Matrix Algebra with Applications to Statistics and Machine Learning - Including an Introduction to Python Programming -
+An Open Textbook
+By Nicholas Elliott Karlson
+
 # Chapter 1: Introduction to Matrix Algebra
 
 Matrix algebra is the branch of mathematics that deals with matrices. Matrices are rectangular arrays of numbers, symbols, or expressions, arranged in rows and columns.
